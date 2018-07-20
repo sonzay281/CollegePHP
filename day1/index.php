@@ -1,5 +1,6 @@
 <?php
-for ($i=0; $i <10 ; $i++) {
-		echo "<h1>$i Hello World!</h1>";
+for ($i=1; $i <10 ; $i++) {
+		echo "<h1>$i : Hello World!</h1>";
 }
+echo "<h1>Test</h1>";
 ?>
